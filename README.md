@@ -26,3 +26,4 @@
 
 ![User section features](https://user-images.githubusercontent.com/82704048/169260915-91d9913a-87a3-42ea-99b5-f86c521b3c3b.png)
 
+<p><i>Design and Developed by </i><b> Rakesh Kumar</b></p>
