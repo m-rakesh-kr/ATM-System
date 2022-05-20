@@ -13,8 +13,10 @@
   <li>Operation on ATM </li>
   <li>Operation on Bank</li>
   <li>Return to Main Menu</li>
+ 
   
-</ul>![Admin side features](https://user-images.githubusercontent.com/82704048/169261349-43a0b674-6fcb-483b-87ae-71f08dd03f40.png)
+  ![image](https://user-images.githubusercontent.com/82704048/169561604-0abfbe26-fb56-4487-bf81-ef909336eaa1.png)
+
 
 <b>Admin Section Features are as below:- </b>
 <ul>
